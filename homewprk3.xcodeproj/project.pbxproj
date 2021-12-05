@@ -11,6 +11,8 @@
 		4779B2CD275C4EC80002FA78 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4779B2CC275C4EC80002FA78 /* ContentView.swift */; };
 		4779B2CF275C4ED00002FA78 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 4779B2CE275C4ED00002FA78 /* Assets.xcassets */; };
 		4779B2D2275C4ED00002FA78 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 4779B2D1275C4ED00002FA78 /* Preview Assets.xcassets */; };
+		4779B2DB275C54530002FA78 /* CalenderView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4779B2DA275C54530002FA78 /* CalenderView.swift */; };
+		4779B2E3275C7F740002FA78 /* AddEventView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4779B2E2275C7F740002FA78 /* AddEventView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -20,6 +22,8 @@
 		4779B2CE275C4ED00002FA78 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		4779B2D1275C4ED00002FA78 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		4779B2D3275C4ED10002FA78 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		4779B2DA275C54530002FA78 /* CalenderView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CalenderView.swift; sourceTree = "<group>"; };
+		4779B2E2275C7F740002FA78 /* AddEventView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AddEventView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -54,6 +58,8 @@
 			children = (
 				4779B2CA275C4EC80002FA78 /* homewprk3App.swift */,
 				4779B2CC275C4EC80002FA78 /* ContentView.swift */,
+				4779B2DA275C54530002FA78 /* CalenderView.swift */,
+				4779B2E2275C7F740002FA78 /* AddEventView.swift */,
 				4779B2CE275C4ED00002FA78 /* Assets.xcassets */,
 				4779B2D3275C4ED10002FA78 /* Info.plist */,
 				4779B2D0275C4ED00002FA78 /* Preview Content */,
@@ -140,6 +146,8 @@
 			files = (
 				4779B2CD275C4EC80002FA78 /* ContentView.swift in Sources */,
 				4779B2CB275C4EC80002FA78 /* homewprk3App.swift in Sources */,
+				4779B2DB275C54530002FA78 /* CalenderView.swift in Sources */,
+				4779B2E3275C7F740002FA78 /* AddEventView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
